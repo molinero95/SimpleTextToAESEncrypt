@@ -1,0 +1,12 @@
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\EncryptorTester.exe.config
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\EncryptorTester.exe
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\EncryptorTester.pdb
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\TextToAESEncryptor.dll
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\SharpAESCrypt.dll
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\netstandard.dll
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\bin\Debug\TextToAESEncryptor.pdb
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\obj\Debug\EncryptorTester.csprojAssemblyReference.cache
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\obj\Debug\EncryptorTester.csproj.CoreCompileInputs.cache
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\obj\Debug\EncryptorTester.csproj.CopyComplete
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\obj\Debug\EncryptorTester.exe
+C:\Users\jaime.molinero\source\repos\TextAESEncryptor\EncryptorTester\obj\Debug\EncryptorTester.pdb
